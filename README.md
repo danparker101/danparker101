@@ -1,19 +1,9 @@
-# Hi there, I'm Raju Ahmed (Raj) 👨‍💻
+# Hi there, Dan Parker 👨‍💻
 ### 💻 Web Developer | 🚀 Open Source Contributor  
-
-[![YouTube](https://img.shields.io/badge/YouTube-%40WebDevRaju-red?style=flat-square&logo=youtube)](https://www.youtube.com/@WebDevRaju)
-[![X](https://img.shields.io/badge/%28Twitter%29-%40rajuahmed_dev-blue?style=flat-square&logo=X)](https://x.com/rajuahmed_dev)
-[![Email](https://img.shields.io/badge/-dev.raju@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.raju@hotmail.com)](mailto:dev.raju@hotmail.com)
-[![Patreon](https://img.shields.io/badge/Support%20Me%20On-Patreon-orange?style=flat-square&logo=patreon)](https://www.patreon.com/WebDevRaju)
-
-[![GitHub](https://img.shields.io/github/followers/WebDevRaju?label=Follower&style=social)](https://github.com/WebDevRaju)
-![Profile Views](https://komarev.com/ghpvc/?username=WebDevRaju&label=Profile%20Views&color=0e75b6&style=flat)
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C983%20hrs%208%20mins-blue)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rajuahmed.dev/)](https://rajuahmed.dev/)
 
 ### 🧐 About Me
 
-I'm a **Web Developer** based in **Dhaka, Bangladesh**, specializing in **functional, responsive, and pixel-perfect web development**. I help small businesses and artisans improve their online presence by redesigning websites, debugging issues, and fixing bugs. I also run a **YouTube channel** where I plan to create valuable tutorials about **web design and development** to help others learn and grow.
+I'm a **Web Developer** based in **Colorado, United States**, specializing in **functional, responsive, and pixel-perfect web development**. I help small businesses and artisans improve their online presence by redesigning websites, debugging issues, and fixing bugs. I also run a **YouTube channel** where I plan to create valuable tutorials about **web design and development** to help others learn and grow.
 
 ### 🌟 My Skills
 
@@ -26,8 +16,6 @@ I'm a **Web Developer** based in **Dhaka, Bangladesh**, specializing in **functi
 
 - 🌐 Helping businesses enhance their online presence
 - ⚖️ Fixing website bugs and optimizing performance
-- 📚 Sharing source code and projects on **[GitHub](https://github.com/WebDevRaju)**
-- 📝 Creating educational content on **[YouTube](https://www.youtube.com/@WebDevRaju)**
 
 ### 🚀 **Tech Stack & Tools I Use:**
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,7 +34,4 @@ I'm a **Web Developer** based in **Dhaka, Bangladesh**, specializing in **functi
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WebDevRaju&theme=tokyo-night)
 
-### 💖 **Support My Work!**  
-Creating **free tutorials** takes a lot of effort. If you find my work helpful, consider **supporting me on Patreon** to help me continue sharing valuable content. Thank you! 🙏  
-
-[![Patreon](https://img.shields.io/badge/Support%20Me%20On-Patreon-orange?style=for-the-badge&logo=patreon)](https://www.patreon.com/WebDevRaju)
+### 💖 **Support My Work!**
