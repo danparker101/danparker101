@@ -3,7 +3,7 @@
 
 ### 🧐 About Me
 
-I'm a **Web Developer** based in **Colorado, United States**, specializing in **functional, responsive, and pixel-perfect web development**. I help small businesses and artisans improve their online presence by redesigning websites, debugging issues, and fixing bugs. I also run a **YouTube channel** where I plan to create valuable tutorials about **web design and development** to help others learn and grow.
+I'm a **Web Developer** based in **Colorado, United States**, specializing in **functional, responsive, and pixel-perfect web development**. I help small businesses and artisans improve their online presence by redesigning websites, debugging issues, and fixing bugs.
 
 ### 🌟 My Skills
 
