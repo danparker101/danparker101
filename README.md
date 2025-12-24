@@ -6,11 +6,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-danparker101-0A66C2?style=flat-square&logo=Google-Chrome&logoColor=white)](https://danparker101/)
 [![YouTube](https://img.shields.io/badge/YouTube-%40danparker101-red?style=flat-square&logo=youtube)](https://www.youtube.com/@danparker101)
 [![X](https://img.shields.io/badge/%28Twitter%29-%40danparker101-blue?style=flat-square&logo=X)](https://x.com/danparker101)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raju%20Ahmed-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/danparker101)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=danparker101&label=Profile%20Views&color=0e75b6&style=flat)
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C983%20hrs%208%20mins-blue)
-[![Email](https://img.shields.io/badge/-dev.raju@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.raju@hotmail.com)](mailto:dev.raju@hotmail.com)
 [![Patreon](https://img.shields.io/badge/Support%20Me%20On-Patreon-orange?style=flat-square&logo=patreon)](https://www.patreon.com/danparker101)
 
 
@@ -80,9 +78,8 @@ If you find my work helpful, please consider supporting me:
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/danparker101)
 
 ## 🤝 Let's Work Together
-I’m available for **freelance projects** or **collaborations**.  
-📩 Reach me at **[dev.raju@hotmail.com](mailto:dev.raju@hotmail.com)** or visit **[danparker101](https://danparker101)**.
+I’m available for **freelance projects** or **collaborations**.
 
 <sub>
-Web Developer Raju, Laravel Developer, PHP Developer, Full Stack Web Developer in Dhaka, Responsive Web Designer, Laravel CMS Developer, Freelance Web Developer in Bangladesh, Laravel Expert, Frontend Developer, Backend Developer.
+Web Developer Dan, Laravel Developer, PHP Developer, Full Stack Web Developer in Dhaka, Responsive Web Designer, Laravel CMS Developer, Freelance Web Developer in Bangladesh, Laravel Expert, Frontend Developer, Backend Developer.
 </sub>
